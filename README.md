@@ -25,9 +25,9 @@ lightweight program to remind you to unplug your laptop once it reaches a certai
     * launch cmd/terminal and enter the following:
       * ```pip install plyer```
       * ```pip install psutil```
-      
-* to edit battery percent goal, edit the highlighted field in batterynotif.pyw using any text/code editor
-  
+### Execution
+* run the batterynotif.pyw file
+ * to edit battery percent goal, edit the highlighted field in batterynotif.pyw using any text/code editor
 ### To run on Windows startup:
   * create a shortcut to the batterynotif.pyw file
   * open the run command window (```win + R```)
