@@ -1,5 +1,5 @@
 # battery notification
-lightweight program to remind you to unplug your laptop once it reaches a certain percent. 
+lightweight program to remind you to unplug your laptop once it reaches a certain percent [(runs on windows startup)](https://github.com/d1by/batterynotif/blob/main/README.md#to-run-on-windows-startup).
 
 ![image](https://user-images.githubusercontent.com/108338649/234029138-b63af425-2fc1-4048-9187-207b0cb441b2.png)
 
