@@ -3,7 +3,7 @@ lightweight program to remind you to unplug your laptop once it reaches a certai
 
 ![image](https://user-images.githubusercontent.com/108338649/234029138-b63af425-2fc1-4048-9187-207b0cb441b2.png)
 
-![image](https://user-images.githubusercontent.com/108338649/234029462-386dc26c-f58d-4a85-bffb-889453fc977b.png)
+![image](https://user-images.githubusercontent.com/108338649/234030448-6f353d60-ba64-458f-8c39-bc3730141e15.png)
 
 ###### Problems? Join the [Discord server](https://discord.gg/frErDjHStx)
 
@@ -36,7 +36,7 @@ lightweight program to remind you to unplug your laptop once it reaches a certai
 
 ## Authors
 
-Diby M.
+[Diby M.](https://github.com/d1by)
 
 ## Version History
 
